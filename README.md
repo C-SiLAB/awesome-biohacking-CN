@@ -6,14 +6,14 @@ This repository is a awesome collection about Biohacking.
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/HeitorG/awesome-biohacking/blob/master/LICENSE.md)
- 
-### Summary:
-- [Ebooks](#ebooks)
-- [Articles](#articles)
-- [Forums](#forums)
-- [Projects](#projects)
 
-### Ebooks:
+### Summary 目录:
+- [Ebooks 电子书](#ebooks)
+- [Articles 文章](#articles)
+- [Forums 论坛](#forums)
+- [Projects 项目](#projects)
+
+### Ebooks 电子书:
 - [Intro to Biohacking (English Edition)](http://www.amazon.com.br/Intro-Biohacking-English-Edition-Meisel-ebook/dp/B00OM11TVM)
 - [Biohacking: Gentechnik aus der Garage (German Edition)](http://www.amazon.com/Biohacking-Gentechnik-Garage-German-Edition-ebook/dp/B00BF7AFHU)
 
